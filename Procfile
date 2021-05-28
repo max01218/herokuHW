@@ -1,1 +1,1 @@
-web:gunicorn hello_django.wsgi
+web: gunicorn hello_django.wsgi
