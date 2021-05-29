@@ -2032,3 +2032,977 @@ File E:\testEnv\Lib\site-packages\django\contrib\messages\storage\session.py fir
 File E:\testEnv\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1622215648.5702913
 File E:\testEnv\Lib\site-packages\django\contrib\messages\utils.py first seen with mtime 1622215648.5613153
 "GET /myhello/?name=max HTTP/1.1" 200 9
+Watching for file changes with StatReloader
+Waiting for apps ready_event.
+Apps ready_event triggered. Sending autoreload_started signal.
+Watching dir E:\testEnv\hello_django\locale with glob **/*.mo.
+Watching dir E:\testEnv\hello_django\myhello\locale with glob **/*.mo.
+(0.000) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+File E:\testEnv\Lib\site-packages\django\http\cookie.py first seen with mtime 1622215651.7751422
+File E:\testEnv\Lib\site-packages\django\db\models\options.py first seen with mtime 1622215651.6064985
+File E:\testEnv\Lib\site-packages\django\utils\connection.py first seen with mtime 1622215651.889889
+File E:\testEnv\Lib\site-packages\django\db\backends\sqlite3\__init__.py first seen with mtime 1622215651.2478719
+File E:\testEnv\Lib\site-packages\django\core\mail\utils.py first seen with mtime 1622215650.8482432
+File E:\testEnv\Lib\site-packages\django\core\serializers\__init__.py first seen with mtime 1622215650.904064
+File D:\python\Lib\threading.py first seen with mtime 1589380960.0
+File D:\python\Lib\asyncio\tasks.py first seen with mtime 1589380958.0
+File D:\python\Lib\sqlite3\__init__.py first seen with mtime 1589380960.0
+File D:\python\Lib\urllib\parse.py first seen with mtime 1589380960.0
+File D:\python\Lib\logging\__init__.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\contrib\admin\sites.py first seen with mtime 1622215642.696575
+File E:\testEnv\Lib\site-packages\django\contrib\messages\api.py first seen with mtime 1622215648.553337
+File E:\testEnv\Lib\site-packages\django\contrib\contenttypes\admin.py first seen with mtime 1622215644.6172912
+File E:\testEnv\Lib\site-packages\django\core\management\__init__.py first seen with mtime 1622215650.8603127
+File E:\testEnv\Lib\site-packages\django\urls\base.py first seen with mtime 1622215651.870916
+File E:\testEnv\Lib\site-packages\django\templatetags\cache.py first seen with mtime 1622215651.843958
+File D:\python\Lib\pprint.py first seen with mtime 1589380960.0
+File E:\testEnv\hello_django\myhello\views.py first seen with mtime 1622223705.5201197
+File E:\testEnv\Lib\site-packages\django\core\files\images.py first seen with mtime 1622215650.8258035
+File E:\testEnv\Lib\site-packages\django\core\handlers\__init__.py first seen with mtime 1622215650.8382745
+File E:\testEnv\Lib\site-packages\django\template\loaders\filesystem.py first seen with mtime 1622215651.839969
+File E:\testEnv\Lib\site-packages\pytz\tzfile.py first seen with mtime 1622215639.9115124
+File E:\testEnv\Lib\site-packages\django\views\debug.py first seen with mtime 1622215651.9626703
+File E:\testEnv\Lib\site-packages\django\contrib\staticfiles\management\commands\runserver.py first seen with mtime 1622215650.7699542
+File E:\testEnv\Lib\site-packages\django\db\backends\ddl_references.py first seen with mtime 1622215650.9220164
+File D:\python\Lib\weakref.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\utils\deconstruct.py first seen with mtime 1622215651.8998652
+File D:\python\DLLs\_sqlite3.pyd first seen with mtime 1589380968.0
+File E:\testEnv\Lib\site-packages\django\db\backends\sqlite3\schema.py first seen with mtime 1622215651.3622603
+File E:\testEnv\Lib\site-packages\django\db\backends\base\__init__.py first seen with mtime 1622215650.9260051
+File E:\testEnv\Lib\site-packages\django\db\models\signals.py first seen with mtime 1622215651.6114862
+File E:\testEnv\Lib\site-packages\django\db\models\sql\query.py first seen with mtime 1622215651.6543703
+File D:\python\Lib\sre_constants.py first seen with mtime 1589380960.0
+File E:\testEnv\hello_django\myhello\__init__.py first seen with mtime 1622216680.614756
+File D:\python\DLLs\_queue.pyd first seen with mtime 1589380968.0
+File D:\python\Lib\difflib.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\core\cache\utils.py first seen with mtime 1622215650.788922
+File D:\python\Lib\unittest\__init__.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\db\migrations\operations\base.py first seen with mtime 1622215651.4957876
+File E:\testEnv\Lib\site-packages\django\db\models\utils.py first seen with mtime 1622215651.6124818
+File E:\testEnv\Lib\site-packages\django\contrib\staticfiles\checks.py first seen with mtime 1622215650.7529895
+File E:\testEnv\Lib\site-packages\django\contrib\auth\signals.py first seen with mtime 1622215644.2250109
+File D:\python\Lib\tempfile.py first seen with mtime 1589380960.0
+File D:\python\Lib\json\encoder.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\db\migrations\operations\fields.py first seen with mtime 1622215651.4977853
+File E:\testEnv\Lib\site-packages\django\core\cache\backends\base.py first seen with mtime 1622215650.790922
+File E:\testEnv\Lib\site-packages\django\contrib\admin\filters.py first seen with mtime 1622215642.687597
+File E:\testEnv\Lib\site-packages\sqlparse\filters\others.py first seen with mtime 1622215639.6219013
+File E:\testEnv\Lib\site-packages\django\forms\boundfield.py first seen with mtime 1622215651.6653404
+File D:\python\Lib\reprlib.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\contrib\staticfiles\management\__init__.py first seen with mtime 1622215650.7649572
+File D:\python\Lib\platform.py first seen with mtime 1589380960.0
+File D:\python\Lib\email\_policybase.py first seen with mtime 1589380958.0
+File D:\python\Lib\site.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\core\checks\__init__.py first seen with mtime 1622215650.8008661
+File D:\python\Lib\email\message.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\db\backends\base\creation.py first seen with mtime 1622215650.9329898
+File E:\testEnv\Lib\site-packages\django\urls\conf.py first seen with mtime 1622215651.8719122
+File E:\testEnv\Lib\site-packages\django\template\loaders\__init__.py first seen with mtime 1622215651.8349826
+File E:\testEnv\Lib\site-packages\django\core\checks\security\csrf.py first seen with mtime 1622215650.818821
+File D:\python\DLLs\_ctypes.pyd first seen with mtime 1589380968.0
+File E:\testEnv\Lib\site-packages\django\contrib\contenttypes\__init__.py first seen with mtime 1622215644.6163273
+File E:\testEnv\Lib\site-packages\django\utils\asyncio.py first seen with mtime 1622215651.8838809
+File E:\testEnv\Lib\site-packages\django\apps\__init__.py first seen with mtime 1622215641.5680592
+File E:\testEnv\Lib\site-packages\whitenoise\base.py first seen with mtime 1622218095.8151343
+File D:\python\Lib\statistics.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\contrib\admin\templatetags\__init__.py first seen with mtime 1622215643.71752
+File E:\testEnv\Lib\site-packages\django\utils\dates.py first seen with mtime 1622215651.8968723
+File E:\testEnv\Lib\site-packages\django\conf\__init__.py first seen with mtime 1622215641.5751448
+File E:\testEnv\Lib\site-packages\django\contrib\admin\templatetags\admin_modify.py first seen with mtime 1622215643.720513
+File E:\testEnv\Lib\site-packages\django\utils\version.py first seen with mtime 1622215651.9437213
+File E:\testEnv\Lib\site-packages\django\templatetags\i18n.py first seen with mtime 1622215651.8449824
+File E:\testEnv\Lib\site-packages\django\forms\utils.py first seen with mtime 1622215651.675314
+File E:\testEnv\Lib\site-packages\django\template\exceptions.py first seen with mtime 1622215651.8160667
+File D:\python\Lib\codecs.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\template\__init__.py first seen with mtime 1622215651.7960868
+File E:\testEnv\Lib\site-packages\django\template\loader.py first seen with mtime 1622215651.8190248
+File D:\python\Lib\contextvars.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\templatetags\tz.py first seen with mtime 1622215651.8500154
+File D:\python\Lib\email\_header_value_parser.py first seen with mtime 1589380958.0
+File D:\python\Lib\lzma.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\contrib\contenttypes\forms.py first seen with mtime 1622215644.624272
+File D:\python\DLLs\_lzma.pyd first seen with mtime 1589380968.0
+File E:\testEnv\Lib\site-packages\sqlparse\lexer.py first seen with mtime 1622215639.6039138
+File D:\python\Lib\ntpath.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\template\autoreload.py first seen with mtime 1622215651.8020697
+File E:\testEnv\Lib\site-packages\django\db\migrations\exceptions.py first seen with mtime 1622215651.3672578
+File D:\python\DLLs\_overlapped.pyd first seen with mtime 1589380968.0
+File E:\testEnv\Lib\site-packages\django\core\checks\registry.py first seen with mtime 1622215650.8098624
+File E:\testEnv\Lib\site-packages\django\db\migrations\__init__.py first seen with mtime 1622215651.3642547
+File D:\python\Lib\http\server.py first seen with mtime 1589380958.0
+File D:\python\Lib\json\scanner.py first seen with mtime 1589380958.0
+File D:\python\Lib\locale.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\db\models\constants.py first seen with mtime 1622215651.5097823
+File D:\python\Lib\email\_parseaddr.py first seen with mtime 1589380958.0
+File D:\python\Lib\http\client.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\db\backends\sqlite3\base.py first seen with mtime 1622215651.2494898
+File E:\testEnv\Lib\site-packages\django\utils\termcolors.py first seen with mtime 1622215651.933748
+File E:\testEnv\Lib\site-packages\django\core\serializers\base.py first seen with mtime 1622215650.9060588
+File E:\testEnv\Lib\site-packages\django\urls\converters.py first seen with mtime 1622215651.8739078
+File D:\python\Lib\string.py first seen with mtime 1589380960.0
+File D:\python\Lib\collections\__init__.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\apps\registry.py first seen with mtime 1622215641.5721526
+File E:\testEnv\Lib\site-packages\django\conf\urls\__init__.py first seen with mtime 1622215642.295287
+File D:\python\Lib\http\cookies.py first seen with mtime 1589380958.0
+File D:\python\Lib\email\errors.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\utils\functional.py first seen with mtime 1622215651.9108367
+File E:\testEnv\Lib\site-packages\django\forms\renderers.py first seen with mtime 1622215651.6743164
+File D:\python\Lib\sre_parse.py first seen with mtime 1589380960.0
+File E:\testEnv\hello_django\hello_django\urls.py first seen with mtime 1622223591.9952145
+File D:\python\Lib\email\mime\__init__.py first seen with mtime 1589380958.0
+File D:\python\Lib\os.py first seen with mtime 1589380960.0
+File D:\python\Lib\wsgiref\util.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\contrib\auth\validators.py first seen with mtime 1622215644.2295222
+File E:\testEnv\Lib\site-packages\django\contrib\contenttypes\apps.py first seen with mtime 1622215644.6192865
+File E:\testEnv\Lib\site-packages\django\db\models\functions\text.py first seen with mtime 1622215651.6424336
+File E:\testEnv\Lib\site-packages\django\contrib\admin\helpers.py first seen with mtime 1622215642.6915865
+File E:\testEnv\Lib\site-packages\django\core\handlers\asgi.py first seen with mtime 1622215650.8392675
+File E:\testEnv\Lib\site-packages\django\utils\encoding.py first seen with mtime 1622215651.9068458
+File E:\testEnv\Lib\site-packages\django\core\handlers\base.py first seen with mtime 1622215650.8402665
+File E:\testEnv\Lib\site-packages\django\core\handlers\exception.py first seen with mtime 1622215650.8422585
+File D:\python\Lib\nturl2path.py first seen with mtime 1589380960.0
+File D:\python\Lib\asyncio\sslproto.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\contrib\staticfiles\management\commands\__init__.py first seen with mtime 1622215650.765954
+File D:\python\Lib\asyncio\locks.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\contrib\admin\models.py first seen with mtime 1622215642.693583
+File D:\python\Lib\urllib\__init__.py first seen with mtime 1589380960.0
+File D:\python\Lib\asyncio\protocols.py first seen with mtime 1589380958.0
+File D:\python\Lib\pickle.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\core\signing.py first seen with mtime 1622215650.7829077
+File E:\testEnv\Lib\site-packages\django\core\serializers\python.py first seen with mtime 1622215650.909051
+File E:\testEnv\Lib\site-packages\django\contrib\auth\management\__init__.py first seen with mtime 1622215644.5878277
+File E:\testEnv\Lib\site-packages\django\db\models\query.py first seen with mtime 1622215651.6085253
+File E:\testEnv\Lib\site-packages\django\template\response.py first seen with mtime 1622215651.822051
+File E:\testEnv\Lib\site-packages\django\core\checks\security\sessions.py first seen with mtime 1622215650.820817
+File D:\python\Lib\asyncio\base_subprocess.py first seen with mtime 1589380958.0
+File D:\python\Lib\concurrent\futures\thread.py first seen with mtime 1589380958.0
+File D:\python\Lib\asyncio\transports.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\utils\ipv6.py first seen with mtime 1622215651.9187891
+File E:\testEnv\Lib\site-packages\django\core\cache\backends\filebased.py first seen with mtime 1622215650.7965324
+File D:\python\Lib\pathlib.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\contrib\admin\views\__init__.py first seen with mtime 1622215643.7274952
+File D:\python\Lib\_collections_abc.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\urls\utils.py first seen with mtime 1622215651.8778963
+File D:\python\Lib\cgi.py first seen with mtime 1589380958.0
+File D:\python\Lib\asyncio\trsock.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\contrib\admin\widgets.py first seen with mtime 1622215642.702559
+File D:\python\Lib\urllib\error.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\views\i18n.py first seen with mtime 1622215651.96666
+File E:\testEnv\Lib\site-packages\asgiref\local.py first seen with mtime 1622215641.4438734
+File E:\testEnv\Lib\site-packages\django\db\__init__.py first seen with mtime 1622215650.9160316
+File E:\testEnv\Lib\site-packages\django\contrib\sessions\apps.py first seen with mtime 1622215649.822611
+File D:\python\Lib\typing.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\core\checks\security\__init__.py first seen with mtime 1622215650.8168285
+File D:\python\Lib\asyncio\base_events.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\db\models\sql\__init__.py first seen with mtime 1622215651.6464388
+File E:\testEnv\Lib\site-packages\django\views\generic\edit.py first seen with mtime 1622215652.115773
+File D:\python\Lib\_bootlocale.py first seen with mtime 1589380958.0
+File D:\python\Lib\unittest\loader.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\contrib\staticfiles\views.py first seen with mtime 1622215650.7639594
+File E:\testEnv\Lib\site-packages\sqlparse\engine\__init__.py first seen with mtime 1622215639.611894
+File D:\python\Lib\warnings.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\utils\hashable.py first seen with mtime 1622215651.9128027
+File E:\testEnv\Lib\site-packages\django\core\wsgi.py first seen with mtime 1622215650.7859004
+File D:\python\Lib\email\charset.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\db\models\sql\datastructures.py first seen with mtime 1622215651.6514127
+File E:\testEnv\Lib\site-packages\django\utils\cache.py first seen with mtime 1622215651.8888676
+File E:\testEnv\Lib\site-packages\django\template\loaders\base.py first seen with mtime 1622215651.8369763
+File D:\python\Lib\concurrent\__init__.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\db\migrations\operations\utils.py first seen with mtime 1622215651.5027688
+File E:\testEnv\Lib\site-packages\django\db\backends\base\schema.py first seen with mtime 1622215650.9419978
+File D:\python\Lib\wsgiref\headers.py first seen with mtime 1589380960.0
+File D:\python\Lib\importlib\__init__.py first seen with mtime 1589380958.0
+File D:\python\Lib\hmac.py first seen with mtime 1589380958.0
+File D:\python\Lib\asyncio\base_futures.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\contrib\admin\decorators.py first seen with mtime 1622215642.6836083
+File E:\testEnv\Lib\site-packages\django\core\files\move.py first seen with mtime 1622215650.8288262
+File E:\testEnv\Lib\site-packages\django\db\models\functions\datetime.py first seen with mtime 1622215651.634424
+File E:\testEnv\Lib\site-packages\django\contrib\staticfiles\__init__.py first seen with mtime 1622215650.7509987
+File E:\testEnv\Lib\site-packages\django\utils\translation\reloader.py first seen with mtime 1622215651.949705
+File D:\python\Lib\wsgiref\__init__.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\contrib\admin\templatetags\base.py first seen with mtime 1622215643.7235048
+File E:\testEnv\Lib\site-packages\django\core\checks\database.py first seen with mtime 1622215650.805873
+File E:\testEnv\Lib\site-packages\sqlparse\filters\aligned_indent.py first seen with mtime 1622215639.6208699
+File D:\python\Lib\wsgiref\simple_server.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\asgiref\sync.py first seen with mtime 1622215641.4528446
+File E:\testEnv\Lib\site-packages\django\contrib\contenttypes\fields.py first seen with mtime 1622215644.6222775
+File E:\testEnv\Lib\site-packages\django\templatetags\__init__.py first seen with mtime 1622215651.8429852
+File E:\testEnv\Lib\site-packages\django\views\generic\detail.py first seen with mtime 1622215652.1147757
+File E:\testEnv\Lib\site-packages\django\db\models\manager.py first seen with mtime 1622215651.604504
+File D:\python\Lib\decimal.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\template\base.py first seen with mtime 1622215651.8050623
+File E:\testEnv\Lib\site-packages\django\utils\crypto.py first seen with mtime 1622215651.891859
+File E:\testEnv\Lib\site-packages\django\contrib\admin\checks.py first seen with mtime 1622215642.6776237
+File D:\python\Lib\asyncio\runners.py first seen with mtime 1589380958.0
+File D:\python\DLLs\unicodedata.pyd first seen with mtime 1589380968.0
+File E:\testEnv\Lib\site-packages\django\contrib\auth\models.py first seen with mtime 1622215644.2220192
+File E:\testEnv\Lib\site-packages\django\core\checks\async_checks.py first seen with mtime 1622215650.8028834
+File E:\testEnv\Lib\site-packages\django\utils\inspect.py first seen with mtime 1622215651.9167922
+File D:\python\Lib\encodings\aliases.py first seen with mtime 1589380958.0
+File D:\python\DLLs\_socket.pyd first seen with mtime 1589380968.0
+File D:\python\Lib\pkgutil.py first seen with mtime 1589380960.0
+File E:\testEnv\hello_django\myhello\urls.py first seen with mtime 1622216916.4756105
+File E:\testEnv\Lib\site-packages\django\template\backends\__init__.py first seen with mtime 1622215651.8270123
+File E:\testEnv\Lib\site-packages\django\contrib\admin\exceptions.py first seen with mtime 1622215642.685603
+File E:\testEnv\Lib\site-packages\django\views\generic\list.py first seen with mtime 1622215652.1167705
+File E:\testEnv\Lib\site-packages\django\contrib\admin\__init__.py first seen with mtime 1622215642.6736343
+File E:\testEnv\Lib\site-packages\django\core\management\color.py first seen with mtime 1622215650.8632991
+File E:\testEnv\Lib\site-packages\django\utils\topological_sort.py first seen with mtime 1622215651.939732
+File E:\testEnv\hello_django\myhello\apps.py first seen with mtime 1622216680.6057796
+File D:\python\Lib\signal.py first seen with mtime 1589380960.0
+File D:\python\DLLs\select.pyd first seen with mtime 1589380968.0
+File D:\python\Lib\collections\abc.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\forms\formsets.py first seen with mtime 1622215651.6703272
+File E:\testEnv\Lib\site-packages\django\utils\formats.py first seen with mtime 1622215651.9098115
+File E:\testEnv\Lib\site-packages\django\middleware\cache.py first seen with mtime 1622215651.783122
+File D:\python\Lib\secrets.py first seen with mtime 1589380960.0
+File D:\python\Lib\logging\config.py first seen with mtime 1589380958.0
+File D:\python\Lib\email\mime\message.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\utils\dateformat.py first seen with mtime 1622215651.8938804
+File D:\python\Lib\socketserver.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\conf\global_settings.py first seen with mtime 1622215641.5771394
+File D:\python\Lib\ctypes\_endian.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\core\exceptions.py first seen with mtime 1622215650.7779212
+File D:\python\Lib\email\mime\base.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\core\__init__.py first seen with mtime 1622215650.7749312
+File E:\testEnv\Lib\site-packages\django\contrib\admin\views\autocomplete.py first seen with mtime 1622215643.7284927
+File E:\testEnv\Lib\site-packages\django\core\mail\__init__.py first seen with mtime 1622215650.8452516
+File E:\testEnv\Lib\site-packages\django\contrib\auth\hashers.py first seen with mtime 1622215644.216863
+File E:\testEnv\Lib\site-packages\django\utils\safestring.py first seen with mtime 1622215651.9317522
+File E:\testEnv\Lib\site-packages\django\db\models\fields\proxy.py first seen with mtime 1622215651.6224556
+File E:\testEnv\Lib\site-packages\django\utils\_os.py first seen with mtime 1622215651.8808894
+File E:\testEnv\Lib\site-packages\django\core\checks\urls.py first seen with mtime 1622215650.8148317
+File E:\testEnv\Lib\site-packages\django\contrib\messages\__init__.py first seen with mtime 1622215648.5513415
+File E:\testEnv\Lib\site-packages\django\http\__init__.py first seen with mtime 1622215651.7741456
+File D:\python\Lib\email\parser.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\core\files\temp.py first seen with mtime 1622215650.8328161
+File D:\python\Lib\unittest\suite.py first seen with mtime 1589380960.0
+File D:\python\Lib\sqlite3\dbapi2.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\db\migrations\migration.py first seen with mtime 1622215651.4817088
+File E:\testEnv\Lib\site-packages\django\core\management\base.py first seen with mtime 1622215650.8623018
+File E:\testEnv\Lib\site-packages\django\template\backends\django.py first seen with mtime 1622215651.8289986
+File E:\testEnv\Lib\site-packages\django\db\backends\base\validation.py first seen with mtime 1622215650.9439592
+File E:\testEnv\Lib\site-packages\django\contrib\contenttypes\management\__init__.py first seen with mtime 1622215644.9861484
+File E:\testEnv\Lib\site-packages\django\db\backends\__init__.py first seen with mtime 1622215650.921019
+File E:\testEnv\Lib\site-packages\sqlparse\sql.py first seen with mtime 1622215639.6059568
+File D:\python\Lib\genericpath.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\db\transaction.py first seen with mtime 1622215650.918026
+File E:\testEnv\Lib\site-packages\django\views\decorators\debug.py first seen with mtime 1622215651.9786284
+File D:\python\Lib\stat.py first seen with mtime 1589380960.0
+File D:\python\Lib\posixpath.py first seen with mtime 1589380960.0
+File D:\python\Lib\keyword.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\db\backends\base\base.py first seen with mtime 1622215650.9270089
+File E:\testEnv\Lib\site-packages\django\views\__init__.py first seen with mtime 1622215651.9576838
+File E:\testEnv\Lib\site-packages\django\contrib\admin\templatetags\admin_list.py first seen with mtime 1622215643.7185178
+File E:\testEnv\Lib\site-packages\sqlparse\filters\__init__.py first seen with mtime 1622215639.6188738
+File E:\testEnv\Lib\site-packages\django\db\models\fields\related.py first seen with mtime 1622215651.6244512
+File E:\testEnv\Lib\site-packages\django\core\cache\__init__.py first seen with mtime 1622215650.7868974
+File E:\testEnv\Lib\site-packages\django\core\checks\security\base.py first seen with mtime 1622215650.8178248
+File E:\testEnv\Lib\site-packages\django\db\models\__init__.py first seen with mtime 1622215651.5047631
+File E:\testEnv\Lib\site-packages\sqlparse\filters\tokens.py first seen with mtime 1622215639.629845
+File E:\testEnv\Lib\site-packages\django\contrib\auth\checks.py first seen with mtime 1622215644.208681
+File E:\testEnv\Lib\site-packages\django\db\models\fields\related_descriptors.py first seen with mtime 1622215651.6264446
+File D:\python\Lib\getpass.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\contrib\auth\middleware.py first seen with mtime 1622215644.21823
+File D:\python\Lib\html\__init__.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\template\defaulttags.py first seen with mtime 1622215651.8120432
+File E:\testEnv\Lib\site-packages\django\db\backends\sqlite3\features.py first seen with mtime 1622215651.255395
+File D:\python\Lib\email\generator.py first seen with mtime 1589380958.0
+File D:\python\Lib\unittest\main.py first seen with mtime 1589380960.0
+File D:\python\Lib\argparse.py first seen with mtime 1589380958.0
+File D:\python\Lib\http\__init__.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\utils\html.py first seen with mtime 1622215651.9138002
+File D:\python\Lib\importlib\abc.py first seen with mtime 1589380958.0
+File D:\python\Lib\asyncio\selector_events.py first seen with mtime 1589380958.0
+File D:\python\Lib\concurrent\futures\__init__.py first seen with mtime 1589380958.0
+File D:\python\Lib\linecache.py first seen with mtime 1589380958.0
+File D:\python\Lib\logging\handlers.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\apps\config.py first seen with mtime 1622215641.5701542
+File E:\testEnv\Lib\site-packages\django\http\response.py first seen with mtime 1622215651.7811263
+File E:\testEnv\Lib\site-packages\django\contrib\auth\tokens.py first seen with mtime 1622215644.2264626
+File D:\python\Lib\copyreg.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\utils\duration.py first seen with mtime 1622215651.9058216
+File E:\testEnv\Lib\site-packages\django\utils\translation\__init__.py first seen with mtime 1622215651.9477112
+File E:\testEnv\Lib\site-packages\django\db\models\functions\__init__.py first seen with mtime 1622215651.6314313
+File E:\testEnv\Lib\site-packages\django\db\models\sql\where.py first seen with mtime 1622215651.6573977
+File D:\python\DLLs\_asyncio.pyd first seen with mtime 1589380968.0
+File D:\python\Lib\abc.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\dispatch\dispatcher.py first seen with mtime 1622215651.660355
+File D:\python\Lib\asyncio\constants.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\sqlparse\filters\reindent.py first seen with mtime 1622215639.6258552
+File E:\testEnv\Lib\site-packages\django\utils\text.py first seen with mtime 1622215651.934745
+File E:\testEnv\Lib\site-packages\django\utils\itercompat.py first seen with mtime 1622215651.9197867
+File E:\testEnv\Lib\site-packages\django\middleware\csrf.py first seen with mtime 1622215651.7881083
+File D:\python\Lib\token.py first seen with mtime 1589380960.0
+File D:\python\Lib\urllib\response.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\contrib\sites\shortcuts.py first seen with mtime 1622215650.3175085
+File E:\testEnv\Lib\site-packages\django\http\request.py first seen with mtime 1622215651.7791312
+File D:\python\Lib\queue.py first seen with mtime 1589380960.0
+File D:\python\Lib\asyncio\subprocess.py first seen with mtime 1589380958.0
+File D:\python\Lib\asyncio\coroutines.py first seen with mtime 1589380958.0
+File D:\python\Lib\html\entities.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\utils\decorators.py first seen with mtime 1622215651.9028306
+File D:\python\Lib\fractions.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\template\library.py first seen with mtime 1622215651.8170645
+File D:\python\Lib\uuid.py first seen with mtime 1589380960.0
+File D:\python\Lib\bisect.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\template\backends\base.py first seen with mtime 1622215651.8270123
+File E:\testEnv\Lib\site-packages\django\utils\deprecation.py first seen with mtime 1622215651.903828
+File E:\testEnv\Lib\site-packages\django\views\decorators\cache.py first seen with mtime 1622215651.971646
+File D:\python\Lib\email\headerregistry.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\utils\http.py first seen with mtime 1622215651.9148223
+File D:\python\Lib\gzip.py first seen with mtime 1589380958.0
+File D:\python\Lib\urllib\request.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\_virtualenv.py first seen with mtime 1622215281.0045087
+File D:\python\Lib\asyncio\staggered.py first seen with mtime 1589380958.0
+File D:\python\Lib\email\utils.py first seen with mtime 1589380958.0
+File D:\python\Lib\mimetypes.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\utils\timezone.py first seen with mtime 1622215651.9377365
+File D:\python\Lib\socket.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\core\paginator.py first seen with mtime 1622215650.7789185
+File E:\testEnv\Lib\site-packages\django\db\models\fields\json.py first seen with mtime 1622215651.6184654
+File E:\testEnv\Lib\site-packages\django\core\checks\translation.py first seen with mtime 1622215650.8128593
+File E:\testEnv\Lib\site-packages\django\template\utils.py first seen with mtime 1622215651.825037
+File E:\testEnv\Lib\site-packages\django\core\management\commands\__init__.py first seen with mtime 1622215650.8692832
+File E:\testEnv\Lib\site-packages\sqlparse\exceptions.py first seen with mtime 1622215639.59793
+File E:\testEnv\Lib\site-packages\sqlparse\__init__.py first seen with mtime 1622215639.5889513
+File D:\python\Lib\distutils\__init__.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\core\mail\message.py first seen with mtime 1622215650.8462727
+File D:\python\Lib\asyncio\futures.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\sqlparse\tokens.py first seen with mtime 1622215639.6079032
+File E:\testEnv\Lib\site-packages\sqlparse\cli.py first seen with mtime 1622215639.5929432
+File E:\testEnv\Lib\site-packages\django\core\files\__init__.py first seen with mtime 1622215650.8228421
+File E:\testEnv\hello_django\hello_django\settings.py first seen with mtime 1622225668.9930174
+File D:\python\Lib\ctypes\__init__.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\db\models\functions\mixins.py first seen with mtime 1622215651.6414056
+File E:\testEnv\Lib\site-packages\django\db\models\fields\__init__.py first seen with mtime 1622215651.6144764
+File E:\testEnv\Lib\site-packages\django\contrib\messages\storage\__init__.py first seen with mtime 1622215648.5643067
+File D:\python\Lib\email\policy.py first seen with mtime 1589380958.0
+File D:\python\Lib\_markupbase.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\__init__.py first seen with mtime 1622215641.563245
+File E:\testEnv\Lib\site-packages\django\utils\lorem_ipsum.py first seen with mtime 1622215651.924771
+File E:\testEnv\Lib\site-packages\django\template\engine.py first seen with mtime 1622215651.8140378
+File E:\testEnv\Lib\site-packages\django\core\management\commands\runserver.py first seen with mtime 1622215650.888106
+File E:\testEnv\Lib\site-packages\django\contrib\auth\admin.py first seen with mtime 1622215644.2026982
+File E:\testEnv\Lib\site-packages\django\db\models\constraints.py first seen with mtime 1622215651.5117455
+File D:\python\Lib\encodings\__init__.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\forms\models.py first seen with mtime 1622215651.6723228
+File E:\testEnv\Lib\site-packages\django\utils\autoreload.py first seen with mtime 1622215651.8849018
+File E:\testEnv\Lib\site-packages\django\template\smartif.py first seen with mtime 1622215651.824031
+File E:\testEnv\Lib\site-packages\django\contrib\staticfiles\apps.py first seen with mtime 1622215650.7509987
+File E:\testEnv\Lib\site-packages\django\db\models\fields\files.py first seen with mtime 1622215651.6165192
+File E:\testEnv\Lib\site-packages\django\utils\regex_helper.py first seen with mtime 1622215651.9307554
+File D:\python\Lib\functools.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\utils\tree.py first seen with mtime 1622215651.941727
+File D:\python\Lib\asyncio\streams.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\views\generic\__init__.py first seen with mtime 1622215652.1087928
+File E:\testEnv\Lib\site-packages\django\db\models\fields\related_lookups.py first seen with mtime 1622215651.6274495
+File E:\testEnv\Lib\site-packages\django\utils\log.py first seen with mtime 1622215651.9237738
+File E:\testEnv\Lib\site-packages\django\utils\baseconv.py first seen with mtime 1622215651.8868966
+File E:\testEnv\Lib\site-packages\django\db\models\base.py first seen with mtime 1622215651.5077555
+File E:\testEnv\hello_django\manage.py first seen with mtime 1622215706.6512637
+File D:\python\Lib\hashlib.py first seen with mtime 1589380958.0
+File D:\python\Lib\_sitebuiltins.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\contrib\__init__.py first seen with mtime 1622215642.29928
+File D:\python\Lib\glob.py first seen with mtime 1589380958.0
+File D:\python\Lib\ssl.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\db\models\query_utils.py first seen with mtime 1622215651.6094904
+File D:\python\Lib\unittest\case.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\forms\widgets.py first seen with mtime 1622215651.6773086
+File E:\testEnv\Lib\site-packages\sqlparse\filters\right_margin.py first seen with mtime 1622215639.6278496
+File D:\python\Lib\sre_compile.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\contrib\admin\views\main.py first seen with mtime 1622215643.7324815
+File E:\testEnv\Lib\site-packages\django\contrib\admin\actions.py first seen with mtime 1622215642.6746318
+File E:\testEnv\Lib\site-packages\django\template\defaultfilters.py first seen with mtime 1622215651.8100495
+File E:\testEnv\Lib\site-packages\django\utils\numberformat.py first seen with mtime 1622215651.92876
+File E:\testEnv\Lib\site-packages\django\contrib\admin\apps.py first seen with mtime 1622215642.6766264
+File D:\python\Lib\struct.py first seen with mtime 1589380960.0
+File D:\python\Lib\unittest\signals.py first seen with mtime 1589380960.0
+File D:\python\Lib\asyncio\format_helpers.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\views\static.py first seen with mtime 1622215651.9686542
+File D:\python\Lib\email\_encoded_words.py first seen with mtime 1589380958.0
+File D:\python\Lib\asyncio\events.py first seen with mtime 1589380958.0
+File D:\python\Lib\io.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\core\files\storage.py first seen with mtime 1622215650.8307896
+File E:\testEnv\Lib\site-packages\django\db\models\fields\mixins.py first seen with mtime 1622215651.6194673
+File E:\testEnv\Lib\site-packages\django\views\decorators\csrf.py first seen with mtime 1622215651.9766335
+File E:\testEnv\Lib\site-packages\django\contrib\auth\base_user.py first seen with mtime 1622215644.2066863
+File D:\python\Lib\gettext.py first seen with mtime 1589380958.0
+File D:\python\Lib\email\contentmanager.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\sqlparse\engine\filter_stack.py first seen with mtime 1622215639.6138887
+File D:\python\Lib\email\header.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\utils\module_loading.py first seen with mtime 1622215651.9267678
+File E:\testEnv\Lib\site-packages\django\db\models\expressions.py first seen with mtime 1622215651.5985534
+File E:\testEnv\Lib\site-packages\django\contrib\auth\__init__.py first seen with mtime 1622215644.2006798
+File D:\python\Lib\copy.py first seen with mtime 1589380958.0
+File D:\python\Lib\encodings\cp950.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\core\cache\backends\__init__.py first seen with mtime 1622215650.7898898
+File E:\testEnv\Lib\site-packages\django\utils\datetime_safe.py first seen with mtime 1622215651.898841
+File E:\testEnv\Lib\site-packages\django\contrib\admin\templatetags\admin_urls.py first seen with mtime 1622215643.72151
+File E:\testEnv\Lib\site-packages\django\db\models\sql\subqueries.py first seen with mtime 1622215651.6553693
+File D:\python\Lib\types.py first seen with mtime 1589380960.0
+File D:\python\Lib\quopri.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\contrib\messages\apps.py first seen with mtime 1622215648.5543337
+File D:\python\Lib\ctypes\wintypes.py first seen with mtime 1589380958.0
+File D:\python\Lib\email\iterators.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\db\backends\base\features.py first seen with mtime 1622215650.93598
+File D:\python\DLLs\_ssl.pyd first seen with mtime 1589380968.0
+File D:\python\Lib\html\parser.py first seen with mtime 1589380958.0
+File D:\python\Lib\json\__init__.py first seen with mtime 1589380958.0
+File D:\python\Lib\asyncio\windows_utils.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\db\backends\sqlite3\client.py first seen with mtime 1622215651.2514045
+File E:\testEnv\Lib\site-packages\django\core\checks\model_checks.py first seen with mtime 1622215650.8088405
+File D:\python\Lib\selectors.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\views\decorators\common.py first seen with mtime 1622215651.975636
+File E:\testEnv\Lib\site-packages\django\db\migrations\operations\special.py first seen with mtime 1622215651.5017724
+File E:\testEnv\Lib\site-packages\django\contrib\auth\forms.py first seen with mtime 1622215644.2155142
+File D:\python\Lib\unittest\result.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\core\cache\backends\locmem.py first seen with mtime 1622215650.7978852
+File E:\testEnv\Lib\site-packages\django\db\models\lookups.py first seen with mtime 1622215651.6025407
+File E:\testEnv\Lib\site-packages\django\forms\__init__.py first seen with mtime 1622215651.6643443
+File E:\testEnv\Lib\site-packages\django\db\backends\sqlite3\introspection.py first seen with mtime 1622215651.2564106
+File D:\python\Lib\operator.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\http\multipartparser.py first seen with mtime 1622215651.7771368
+File E:\testEnv\Lib\site-packages\pytz\lazy.py first seen with mtime 1622215639.9075303
+File E:\testEnv\Lib\site-packages\django\templatetags\static.py first seen with mtime 1622215651.8479748
+File D:\python\Lib\email\mime\multipart.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\core\files\base.py first seen with mtime 1622215650.8248065
+File E:\testEnv\Lib\site-packages\django\db\migrations\operations\models.py first seen with mtime 1622215651.499777
+File E:\testEnv\Lib\site-packages\django\template\loader_tags.py first seen with mtime 1622215651.82102
+File E:\testEnv\Lib\site-packages\django\dispatch\__init__.py first seen with mtime 1622215651.6593573
+File E:\testEnv\Lib\site-packages\django\middleware\security.py first seen with mtime 1622215651.795089
+File E:\testEnv\Lib\site-packages\django\db\models\indexes.py first seen with mtime 1622215651.600518
+File E:\testEnv\Lib\site-packages\django\conf\locale\__init__.py first seen with mtime 1622215641.593095
+File E:\testEnv\Lib\site-packages\django\contrib\contenttypes\models.py first seen with mtime 1622215644.6262686
+File D:\python\Lib\base64.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\utils\timesince.py first seen with mtime 1622215651.9367397
+File E:\testEnv\Lib\site-packages\django\db\models\enums.py first seen with mtime 1622215651.5965726
+File D:\python\Lib\email\base64mime.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\contrib\auth\apps.py first seen with mtime 1622215644.203695
+File D:\python\Lib\email\feedparser.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\db\backends\base\introspection.py first seen with mtime 1622215650.9380095
+File D:\python\Lib\shutil.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\contrib\staticfiles\finders.py first seen with mtime 1622215650.753986
+File D:\python\Lib\enum.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\sqlparse\engine\grouping.py first seen with mtime 1622215639.6148844
+File E:\testEnv\Lib\site-packages\django\template\loaders\app_directories.py first seen with mtime 1622215651.8349826
+File E:\testEnv\Lib\site-packages\django\db\models\functions\comparison.py first seen with mtime 1622215651.6324284
+File E:\testEnv\Lib\site-packages\django\utils\__init__.py first seen with mtime 1622215651.8798912
+File E:\testEnv\Lib\site-packages\django\db\models\sql\constants.py first seen with mtime 1622215651.6504157
+File D:\python\Lib\random.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\db\models\functions\math.py first seen with mtime 1622215651.6354547
+File E:\testEnv\Lib\site-packages\django\core\checks\messages.py first seen with mtime 1622215650.8068714
+File E:\testEnv\Lib\site-packages\django\db\migrations\utils.py first seen with mtime 1622215651.4911215
+File E:\testEnv\Lib\site-packages\django\views\generic\base.py first seen with mtime 1622215652.1117845
+File E:\testEnv\Lib\site-packages\django\db\backends\signals.py first seen with mtime 1622215650.9230134
+File E:\testEnv\Lib\site-packages\django\core\files\locks.py first seen with mtime 1622215650.8277981
+File D:\python\Lib\dis.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\utils\datastructures.py first seen with mtime 1622215651.8928561
+File E:\testEnv\Lib\site-packages\sqlparse\keywords.py first seen with mtime 1622215639.6019669
+File D:\python\Lib\unittest\async_case.py first seen with mtime 1589380960.0
+File D:\python\Lib\asyncio\log.py first seen with mtime 1589380958.0
+File D:\python\DLLs\_hashlib.pyd first seen with mtime 1589380968.0
+File E:\testEnv\Lib\site-packages\django\views\decorators\__init__.py first seen with mtime 1622215651.9706488
+File E:\testEnv\Lib\site-packages\django\db\backends\utils.py first seen with mtime 1622215650.924011
+File D:\python\Lib\importlib\machinery.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\contrib\sessions\models.py first seen with mtime 1622215649.8285944
+File E:\testEnv\Lib\site-packages\django\contrib\sessions\base_session.py first seen with mtime 1622215649.823639
+File E:\testEnv\Lib\site-packages\django\db\models\functions\window.py first seen with mtime 1622215651.6444287
+File D:\python\Lib\email\encoders.py first seen with mtime 1589380958.0
+File D:\python\Lib\tokenize.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\views\defaults.py first seen with mtime 1622215651.964665
+File E:\testEnv\Lib\site-packages\django\contrib\auth\password_validation.py first seen with mtime 1622215644.2230165
+File E:\testEnv\Lib\site-packages\django\urls\exceptions.py first seen with mtime 1622215651.8749044
+File E:\testEnv\Lib\site-packages\django\urls\__init__.py first seen with mtime 1622215651.868958
+File D:\python\Lib\fnmatch.py first seen with mtime 1589380958.0
+File D:\python\Lib\concurrent\futures\_base.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\core\files\uploadedfile.py first seen with mtime 1622215650.8347785
+File D:\python\Lib\numbers.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\templatetags\l10n.py first seen with mtime 1622215651.8469753
+File E:\testEnv\Lib\site-packages\django\contrib\sites\__init__.py first seen with mtime 1622215650.3045194
+File E:\testEnv\Lib\site-packages\django\db\models\aggregates.py first seen with mtime 1622215651.506778
+File D:\python\Lib\subprocess.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\db\backends\sqlite3\creation.py first seen with mtime 1622215651.253387
+File E:\testEnv\Lib\site-packages\django\template\context.py first seen with mtime 1622215651.8060942
+File D:\python\Lib\heapq.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\db\backends\sqlite3\operations.py first seen with mtime 1622215651.3602684
+File D:\python\Lib\uu.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\middleware\__init__.py first seen with mtime 1622215651.7821245
+File D:\python\Lib\inspect.py first seen with mtime 1589380958.0
+File D:\python\Lib\re.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\db\models\fields\reverse_related.py first seen with mtime 1622215651.6294365
+File D:\python\Lib\asyncio\proactor_events.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\contrib\contenttypes\views.py first seen with mtime 1622215644.6272652
+File E:\testEnv\Lib\site-packages\django\db\utils.py first seen with mtime 1622215650.9190242
+File E:\testEnv\Lib\site-packages\django\contrib\contenttypes\checks.py first seen with mtime 1622215644.6212802
+File E:\testEnv\Lib\site-packages\django\core\servers\__init__.py first seen with mtime 1622215650.914037
+File E:\testEnv\Lib\site-packages\django\db\migrations\operations\__init__.py first seen with mtime 1622215651.4947875
+File D:\python\Lib\_weakrefset.py first seen with mtime 1589380958.0
+File D:\python\DLLs\_decimal.pyd first seen with mtime 1589380968.0
+File E:\testEnv\Lib\site-packages\sqlparse\filters\output.py first seen with mtime 1622215639.624858
+File D:\python\Lib\email\quoprimime.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\sqlparse\engine\statement_splitter.py first seen with mtime 1622215639.6168792
+File E:\testEnv\Lib\site-packages\django\utils\translation\trans_real.py first seen with mtime 1622215651.9556897
+File D:\python\Lib\bz2.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\core\validators.py first seen with mtime 1622215650.7839055
+File D:\python\Lib\distutils\version.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\utils\dateparse.py first seen with mtime 1622215651.8958726
+File E:\testEnv\Lib\site-packages\django\contrib\admin\options.py first seen with mtime 1622215642.6945803
+File E:\testEnv\Lib\site-packages\asgiref\current_thread_executor.py first seen with mtime 1622215641.4418788
+File E:\testEnv\Lib\site-packages\django\db\backends\base\operations.py first seen with mtime 1622215650.9399948
+File E:\testEnv\hello_django\hello_django\__init__.py first seen with mtime 1622215706.6632304
+File D:\python\Lib\_compression.py first seen with mtime 1589380958.0
+File E:\testEnv\hello_django\myhello\models.py first seen with mtime 1622216680.6077764
+File E:\testEnv\Lib\site-packages\django\contrib\staticfiles\utils.py first seen with mtime 1622215650.7619965
+File E:\testEnv\Lib\site-packages\django\db\migrations\state.py first seen with mtime 1622215651.4901116
+File D:\python\Lib\asyncio\windows_events.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\contrib\messages\constants.py first seen with mtime 1622215648.5563297
+File D:\python\Lib\email\mime\text.py first seen with mtime 1589380958.0
+File D:\python\Lib\ipaddress.py first seen with mtime 1589380958.0
+File D:\python\Lib\traceback.py first seen with mtime 1589380960.0
+File D:\python\Lib\datetime.py first seen with mtime 1589380958.0
+File D:\python\Lib\unittest\runner.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\forms\fields.py first seen with mtime 1622215651.667336
+File E:\testEnv\Lib\site-packages\pytz\exceptions.py first seen with mtime 1622215639.9062266
+File E:\testEnv\Lib\site-packages\django\core\handlers\wsgi.py first seen with mtime 1622215650.8432558
+File D:\python\Lib\email\__init__.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\asgiref\__init__.py first seen with mtime 1622215641.4388866
+File E:\testEnv\Lib\site-packages\pytz\__init__.py first seen with mtime 1622215639.9044697
+File D:\python\Lib\contextlib.py first seen with mtime 1589380958.0
+File D:\python\Lib\calendar.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\contrib\auth\backends.py first seen with mtime 1622215644.2056673
+File D:\python\Lib\encodings\latin_1.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\whitenoise\__init__.py first seen with mtime 1622218095.813139
+File D:\python\Lib\opcode.py first seen with mtime 1589380960.0
+File D:\python\Lib\asyncio\queues.py first seen with mtime 1589380958.0
+File D:\python\Lib\asyncio\base_tasks.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\db\models\deletion.py first seen with mtime 1622215651.5137396
+File E:\testEnv\Lib\site-packages\django\views\generic\dates.py first seen with mtime 1622215652.1127818
+File E:\testEnv\Lib\site-packages\pytz\tzinfo.py first seen with mtime 1622215639.9125085
+File E:\testEnv\Lib\site-packages\django\contrib\admin\templatetags\log.py first seen with mtime 1622215643.726498
+File E:\testEnv\hello_django\myhello\admin.py first seen with mtime 1622216680.6007948
+File E:\testEnv\Lib\site-packages\sqlparse\formatter.py first seen with mtime 1622215639.598927
+File E:\testEnv\Lib\site-packages\django\contrib\sessions\__init__.py first seen with mtime 1622215649.8216457
+File D:\python\Lib\unittest\util.py first seen with mtime 1589380960.0
+File D:\python\Lib\email\mime\nonmultipart.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\core\files\uploadhandler.py first seen with mtime 1622215650.835776
+File E:\testEnv\Lib\site-packages\sqlparse\utils.py first seen with mtime 1622215639.609898
+File E:\testEnv\Lib\site-packages\django\db\backends\base\client.py first seen with mtime 1622215650.9299963
+File E:\testEnv\Lib\site-packages\django\contrib\admin\utils.py first seen with mtime 1622215642.7005627
+File D:\python\Lib\_compat_pickle.py first seen with mtime 1589380958.0
+File D:\python\Lib\json\decoder.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\contrib\staticfiles\handlers.py first seen with mtime 1622215650.75598
+File E:\testEnv\Lib\site-packages\django\core\checks\caches.py first seen with mtime 1622215650.8038802
+File E:\testEnv\Lib\site-packages\django\core\checks\templates.py first seen with mtime 1622215650.8118584
+File E:\testEnv\Lib\site-packages\django\core\files\utils.py first seen with mtime 1622215650.8372726
+File D:\python\Lib\asyncio\exceptions.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\core\signals.py first seen with mtime 1622215650.780915
+File D:\python\Lib\wsgiref\handlers.py first seen with mtime 1589380960.0
+File D:\python\Lib\importlib\util.py first seen with mtime 1589380958.0
+File D:\python\Lib\asyncio\__init__.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\core\serializers\json.py first seen with mtime 1622215650.9070563
+File E:\testEnv\Lib\site-packages\django\core\servers\basehttp.py first seen with mtime 1622215650.9150348
+File E:\testEnv\Lib\site-packages\django\urls\resolvers.py first seen with mtime 1622215651.8768997
+File E:\testEnv\Lib\site-packages\django\forms\forms.py first seen with mtime 1622215651.66933
+File D:\python\DLLs\_bz2.pyd first seen with mtime 1589380968.0
+File D:\python\Lib\encodings\utf_8.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\contrib\auth\migrations\0008_alter_user_username_max_length.py first seen with mtime 1622215644.6048224
+File E:\testEnv\Lib\site-packages\django\db\migrations\executor.py first seen with mtime 1622215651.3682816
+File E:\testEnv\Lib\site-packages\django\views\csrf.py first seen with mtime 1622215651.9606762
+File D:\python\Lib\stringprep.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\contrib\auth\migrations\0010_alter_group_name_max_length.py first seen with mtime 1622215644.6077757
+File E:\testEnv\Lib\site-packages\django\db\migrations\graph.py first seen with mtime 1622215651.370262
+File E:\testEnv\hello_django\myhello\migrations\__init__.py first seen with mtime 1622216680.6277223
+File E:\testEnv\Lib\site-packages\whitenoise\responders.py first seen with mtime 1622218095.83012
+File E:\testEnv\Lib\site-packages\whitenoise\media_types.py first seen with mtime 1622218095.8211179
+File E:\testEnv\Lib\site-packages\django\contrib\sessions\migrations\0001_initial.py first seen with mtime 1622215650.2905805
+File E:\testEnv\Lib\site-packages\django\contrib\admin\migrations\0002_logentry_remove_auto_add.py first seen with mtime 1622215643.4087887
+File D:\python\Lib\encodings\idna.py first seen with mtime 1589380958.0
+File E:\testEnv\Lib\site-packages\django\contrib\contenttypes\migrations\__init__.py first seen with mtime 1622215644.9940896
+File E:\testEnv\Lib\site-packages\django\contrib\auth\migrations\__init__.py first seen with mtime 1622215644.612761
+File E:\testEnv\Lib\site-packages\whitenoise\string_utils.py first seen with mtime 1622218095.8350804
+File E:\testEnv\Lib\site-packages\django\db\migrations\recorder.py first seen with mtime 1622215651.4868538
+File E:\testEnv\Lib\site-packages\django\contrib\messages\middleware.py first seen with mtime 1622215648.5593202
+File E:\testEnv\Lib\site-packages\django\db\migrations\loader.py first seen with mtime 1622215651.371276
+File E:\testEnv\Lib\site-packages\django\contrib\admin\migrations\0001_initial.py first seen with mtime 1622215643.4077914
+File E:\testEnv\Lib\site-packages\django\contrib\auth\migrations\0012_alter_user_first_name_max_length.py first seen with mtime 1622215644.6108024
+File E:\testEnv\Lib\site-packages\django\contrib\auth\migrations\0004_alter_user_username_opts.py first seen with mtime 1622215644.5978024
+File E:\testEnv\Lib\site-packages\django\middleware\common.py first seen with mtime 1622215651.7861135
+File E:\testEnv\Lib\site-packages\django\contrib\auth\migrations\0011_update_proxy_permissions.py first seen with mtime 1622215644.6097705
+File E:\testEnv\Lib\site-packages\django\contrib\sessions\backends\db.py first seen with mtime 1622215649.8365734
+File E:\testEnv\Lib\site-packages\django\contrib\auth\migrations\0009_alter_user_last_name_max_length.py first seen with mtime 1622215644.6057816
+File E:\testEnv\Lib\site-packages\django\contrib\staticfiles\storage.py first seen with mtime 1622215650.7579753
+File E:\testEnv\Lib\site-packages\django\middleware\clickjacking.py first seen with mtime 1622215651.7851152
+File E:\testEnv\Lib\site-packages\django\contrib\sessions\migrations\__init__.py first seen with mtime 1622215650.2925503
+File E:\testEnv\Lib\site-packages\django\contrib\auth\migrations\0003_alter_user_email_max_length.py first seen with mtime 1622215644.5958068
+File E:\testEnv\Lib\site-packages\django\contrib\sessions\backends\__init__.py first seen with mtime 1622215649.831615
+File E:\testEnv\Lib\site-packages\django\contrib\auth\migrations\0001_initial.py first seen with mtime 1622215644.592853
+File E:\testEnv\Lib\site-packages\django\contrib\admin\migrations\0003_logentry_add_action_flag_choices.py first seen with mtime 1622215643.4107833
+File E:\testEnv\Lib\site-packages\django\contrib\auth\migrations\0005_alter_user_last_login_null.py first seen with mtime 1622215644.5987983
+File E:\testEnv\hello_django\hello_django\wsgi.py first seen with mtime 1622215706.6602383
+File E:\testEnv\Lib\site-packages\django\contrib\sessions\backends\base.py first seen with mtime 1622215649.832584
+File E:\testEnv\Lib\site-packages\django\contrib\admin\migrations\__init__.py first seen with mtime 1622215643.4127781
+File E:\testEnv\Lib\site-packages\django\contrib\auth\migrations\0002_alter_permission_name_max_length.py first seen with mtime 1622215644.5948105
+File E:\testEnv\Lib\site-packages\django\contrib\contenttypes\migrations\0001_initial.py first seen with mtime 1622215644.9910972
+File E:\testEnv\Lib\site-packages\whitenoise\middleware.py first seen with mtime 1622218095.822116
+File E:\testEnv\Lib\site-packages\django\contrib\auth\migrations\0006_require_contenttypes_0002.py first seen with mtime 1622215644.6017904
+File E:\testEnv\Lib\site-packages\django\contrib\sessions\middleware.py first seen with mtime 1622215649.8266006
+File E:\testEnv\Lib\site-packages\django\contrib\auth\migrations\0007_alter_validators_add_error_messages.py first seen with mtime 1622215644.6027877
+File E:\testEnv\Lib\site-packages\django\contrib\sessions\exceptions.py first seen with mtime 1622215649.8256032
+File E:\testEnv\Lib\site-packages\django\contrib\contenttypes\migrations\0002_remove_content_type_name.py first seen with mtime 1622215644.9920962
+"GET /myhello/ HTTP/1.1" 302 0
+Exception while resolving variable 'subtitle' in template 'admin/login.html'.
+Traceback (most recent call last):
+  File "E:\testEnv\lib\site-packages\django\template\base.py", line 829, in _resolve_lookup
+    current = current[bit]
+  File "E:\testEnv\lib\site-packages\django\template\context.py", line 83, in __getitem__
+    raise KeyError(key)
+KeyError: 'subtitle'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\testEnv\lib\site-packages\django\template\base.py", line 835, in _resolve_lookup
+    if isinstance(current, BaseContext) and getattr(type(current), bit):
+AttributeError: type object 'RequestContext' has no attribute 'subtitle'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\testEnv\lib\site-packages\django\template\base.py", line 843, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'subtitle'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\testEnv\lib\site-packages\django\template\base.py", line 848, in _resolve_lookup
+    raise VariableDoesNotExist("Failed lookup for key "
+django.template.base.VariableDoesNotExist: Failed lookup for key [subtitle] in [{'True': True, 'False': False, 'None': None}, {'csrf_token': <SimpleLazyObject: <function csrf.<locals>._get_val at 0x04F12610>>, 'request': <WSGIRequest: GET '/login/?next=/myhello/'>, 'user': <SimpleLazyObject: <django.contrib.auth.models.AnonymousUser object at 0x04E74418>>, 'perms': <django.contrib.auth.context_processors.PermWrapper object at 0x04F2B628>, 'messages': <django.contrib.messages.storage.fallback.FallbackStorage object at 0x04E74490>, 'DEFAULT_MESSAGE_LEVELS': {'DEBUG': 10, 'INFO': 20, 'SUCCESS': 25, 'WARNING': 30, 'ERROR': 40}}, {}, {'form': <AdminAuthenticationForm bound=False, valid=Unknown, fields=(username;password)>, 'view': <django.contrib.auth.views.LoginView object at 0x04E8E958>, 'site_title': 'Django site admin', 'site_header': 'Django administration', 'site_url': '/', 'has_permission': False, 'available_apps': [], 'is_popup': False, 'is_nav_sidebar_enabled': True, 'title': 'Log in', 'app_path': '/login/?next=/myhello/', 'username': '', 'next': '/myhello/', 'site': <django.contrib.sites.requests.RequestSite object at 0x04E8EB50>, 'site_name': '127.0.0.1:8000', 'LANGUAGE_CODE': 'en-us', 'LANGUAGE_BIDI': False}, {'block': <Block Node: title. Contents: [<IfNode>, <Variable Node: title>, <TextNode: ' | '>, <Variable Node: site_title|default:_('Django site admin')>]>}]
+Exception while resolving variable 'subtitle' in template 'admin/login.html'.
+Traceback (most recent call last):
+  File "E:\testEnv\lib\site-packages\django\template\base.py", line 829, in _resolve_lookup
+    current = current[bit]
+  File "E:\testEnv\lib\site-packages\django\template\context.py", line 83, in __getitem__
+    raise KeyError(key)
+KeyError: 'subtitle'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\testEnv\lib\site-packages\django\template\base.py", line 835, in _resolve_lookup
+    if isinstance(current, BaseContext) and getattr(type(current), bit):
+AttributeError: type object 'RequestContext' has no attribute 'subtitle'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\testEnv\lib\site-packages\django\template\base.py", line 843, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'subtitle'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\testEnv\lib\site-packages\django\template\base.py", line 848, in _resolve_lookup
+    raise VariableDoesNotExist("Failed lookup for key "
+django.template.base.VariableDoesNotExist: Failed lookup for key [subtitle] in [{'True': True, 'False': False, 'None': None}, {'csrf_token': <SimpleLazyObject: <function csrf.<locals>._get_val at 0x04F12610>>, 'request': <WSGIRequest: GET '/login/?next=/myhello/'>, 'user': <SimpleLazyObject: <django.contrib.auth.models.AnonymousUser object at 0x04E74418>>, 'perms': <django.contrib.auth.context_processors.PermWrapper object at 0x04F2B628>, 'messages': <django.contrib.messages.storage.fallback.FallbackStorage object at 0x04E74490>, 'DEFAULT_MESSAGE_LEVELS': {'DEBUG': 10, 'INFO': 20, 'SUCCESS': 25, 'WARNING': 30, 'ERROR': 40}}, {}, {'form': <AdminAuthenticationForm bound=False, valid=Unknown, fields=(username;password)>, 'view': <django.contrib.auth.views.LoginView object at 0x04E8E958>, 'site_title': 'Django site admin', 'site_header': 'Django administration', 'site_url': '/', 'has_permission': False, 'available_apps': [], 'is_popup': False, 'is_nav_sidebar_enabled': True, 'title': 'Log in', 'app_path': '/login/?next=/myhello/', 'username': '', 'next': '/myhello/', 'site': <django.contrib.sites.requests.RequestSite object at 0x04E8EB50>, 'site_name': '127.0.0.1:8000', 'LANGUAGE_CODE': 'en-us', 'LANGUAGE_BIDI': False}, {'block': <Block Node: content_subtitle. Contents: [<IfNode>]>}]
+"GET /login/?next=/myhello/ HTTP/1.1" 200 2206
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2271
+"GET /static/admin/css/login.css HTTP/1.1" 200 939
+"GET /static/admin/css/base.css HTTP/1.1" 200 19513
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 18545
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 1360
+"GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+File E:\testEnv\Lib\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1622215648.5682964
+File E:\testEnv\Lib\site-packages\django\contrib\messages\context_processors.py first seen with mtime 1622215648.5573256
+File E:\testEnv\Lib\site-packages\django\shortcuts.py first seen with mtime 1622215641.5670455
+File E:\testEnv\Lib\site-packages\whitenoise\storage.py first seen with mtime 1622218095.833086
+File E:\testEnv\Lib\site-packages\django\contrib\auth\context_processors.py first seen with mtime 1622215644.212212
+File E:\testEnv\Lib\site-packages\django\conf\locale\en\__init__.py first seen with mtime 1622215641.708107
+File E:\testEnv\Lib\site-packages\django\contrib\auth\decorators.py first seen with mtime 1622215644.2135193
+File E:\testEnv\Lib\site-packages\django\contrib\sites\requests.py first seen with mtime 1622215650.3164868
+File E:\testEnv\Lib\site-packages\django\contrib\auth\views.py first seen with mtime 1622215644.2305465
+File D:\python\Lib\textwrap.py first seen with mtime 1589380960.0
+File E:\testEnv\Lib\site-packages\django\contrib\admin\forms.py first seen with mtime 1622215642.689592
+File E:\testEnv\Lib\site-packages\whitenoise\compress.py first seen with mtime 1622218095.8171282
+File E:\testEnv\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1622215649.829638
+File E:\testEnv\Lib\site-packages\django\contrib\messages\storage\base.py first seen with mtime 1622215648.566301
+File E:\testEnv\Lib\site-packages\django\contrib\messages\utils.py first seen with mtime 1622215648.5613153
+File E:\testEnv\Lib\site-packages\django\template\context_processors.py first seen with mtime 1622215651.808054
+File E:\testEnv\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1622215648.5702913
+File E:\testEnv\Lib\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1622215648.5713134
+File E:\testEnv\Lib\site-packages\django\conf\locale\en\formats.py first seen with mtime 1622215641.709056
+"GET /myhello/ HTTP/1.1" 302 0
+Exception while resolving variable 'subtitle' in template 'admin/login.html'.
+Traceback (most recent call last):
+  File "E:\testEnv\lib\site-packages\django\template\base.py", line 829, in _resolve_lookup
+    current = current[bit]
+  File "E:\testEnv\lib\site-packages\django\template\context.py", line 83, in __getitem__
+    raise KeyError(key)
+KeyError: 'subtitle'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\testEnv\lib\site-packages\django\template\base.py", line 835, in _resolve_lookup
+    if isinstance(current, BaseContext) and getattr(type(current), bit):
+AttributeError: type object 'RequestContext' has no attribute 'subtitle'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\testEnv\lib\site-packages\django\template\base.py", line 843, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'subtitle'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\testEnv\lib\site-packages\django\template\base.py", line 848, in _resolve_lookup
+    raise VariableDoesNotExist("Failed lookup for key "
+django.template.base.VariableDoesNotExist: Failed lookup for key [subtitle] in [{'True': True, 'False': False, 'None': None}, {'csrf_token': <SimpleLazyObject: <function csrf.<locals>._get_val at 0x04F129B8>>, 'request': <WSGIRequest: GET '/login/?next=/myhello/'>, 'user': <SimpleLazyObject: <django.contrib.auth.models.AnonymousUser object at 0x04DCB6B8>>, 'perms': <django.contrib.auth.context_processors.PermWrapper object at 0x04E11AC0>, 'messages': <django.contrib.messages.storage.fallback.FallbackStorage object at 0x04DCB9D0>, 'DEFAULT_MESSAGE_LEVELS': {'DEBUG': 10, 'INFO': 20, 'SUCCESS': 25, 'WARNING': 30, 'ERROR': 40}}, {}, {'form': <AdminAuthenticationForm bound=False, valid=Unknown, fields=(username;password)>, 'view': <django.contrib.auth.views.LoginView object at 0x04DCBC40>, 'site_title': 'Django site admin', 'site_header': 'Django administration', 'site_url': '/', 'has_permission': False, 'available_apps': [], 'is_popup': False, 'is_nav_sidebar_enabled': True, 'title': 'Log in', 'app_path': '/login/?next=/myhello/', 'username': '', 'next': '/myhello/', 'site': <django.contrib.sites.requests.RequestSite object at 0x04DCBA18>, 'site_name': '127.0.0.1:8000', 'LANGUAGE_CODE': 'en-us', 'LANGUAGE_BIDI': False}, {'block': <Block Node: title. Contents: [<IfNode>, <Variable Node: title>, <TextNode: ' | '>, <Variable Node: site_title|default:_('Django site admin')>]>}]
+Exception while resolving variable 'subtitle' in template 'admin/login.html'.
+Traceback (most recent call last):
+  File "E:\testEnv\lib\site-packages\django\template\base.py", line 829, in _resolve_lookup
+    current = current[bit]
+  File "E:\testEnv\lib\site-packages\django\template\context.py", line 83, in __getitem__
+    raise KeyError(key)
+KeyError: 'subtitle'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\testEnv\lib\site-packages\django\template\base.py", line 835, in _resolve_lookup
+    if isinstance(current, BaseContext) and getattr(type(current), bit):
+AttributeError: type object 'RequestContext' has no attribute 'subtitle'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\testEnv\lib\site-packages\django\template\base.py", line 843, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'subtitle'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\testEnv\lib\site-packages\django\template\base.py", line 848, in _resolve_lookup
+    raise VariableDoesNotExist("Failed lookup for key "
+django.template.base.VariableDoesNotExist: Failed lookup for key [subtitle] in [{'True': True, 'False': False, 'None': None}, {'csrf_token': <SimpleLazyObject: <function csrf.<locals>._get_val at 0x04F129B8>>, 'request': <WSGIRequest: GET '/login/?next=/myhello/'>, 'user': <SimpleLazyObject: <django.contrib.auth.models.AnonymousUser object at 0x04DCB6B8>>, 'perms': <django.contrib.auth.context_processors.PermWrapper object at 0x04E11AC0>, 'messages': <django.contrib.messages.storage.fallback.FallbackStorage object at 0x04DCB9D0>, 'DEFAULT_MESSAGE_LEVELS': {'DEBUG': 10, 'INFO': 20, 'SUCCESS': 25, 'WARNING': 30, 'ERROR': 40}}, {}, {'form': <AdminAuthenticationForm bound=False, valid=Unknown, fields=(username;password)>, 'view': <django.contrib.auth.views.LoginView object at 0x04DCBC40>, 'site_title': 'Django site admin', 'site_header': 'Django administration', 'site_url': '/', 'has_permission': False, 'available_apps': [], 'is_popup': False, 'is_nav_sidebar_enabled': True, 'title': 'Log in', 'app_path': '/login/?next=/myhello/', 'username': '', 'next': '/myhello/', 'site': <django.contrib.sites.requests.RequestSite object at 0x04DCBA18>, 'site_name': '127.0.0.1:8000', 'LANGUAGE_CODE': 'en-us', 'LANGUAGE_BIDI': False}, {'block': <Block Node: content_subtitle. Contents: [<IfNode>]>}]
+"GET /login/?next=/myhello/ HTTP/1.1" 200 2206
+"GET /myhello/ HTTP/1.1" 302 0
+Exception while resolving variable 'subtitle' in template 'admin/login.html'.
+Traceback (most recent call last):
+  File "E:\testEnv\lib\site-packages\django\template\base.py", line 829, in _resolve_lookup
+    current = current[bit]
+  File "E:\testEnv\lib\site-packages\django\template\context.py", line 83, in __getitem__
+    raise KeyError(key)
+KeyError: 'subtitle'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\testEnv\lib\site-packages\django\template\base.py", line 835, in _resolve_lookup
+    if isinstance(current, BaseContext) and getattr(type(current), bit):
+AttributeError: type object 'RequestContext' has no attribute 'subtitle'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\testEnv\lib\site-packages\django\template\base.py", line 843, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'subtitle'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\testEnv\lib\site-packages\django\template\base.py", line 848, in _resolve_lookup
+    raise VariableDoesNotExist("Failed lookup for key "
+django.template.base.VariableDoesNotExist: Failed lookup for key [subtitle] in [{'True': True, 'False': False, 'None': None}, {'csrf_token': <SimpleLazyObject: <function csrf.<locals>._get_val at 0x04F66C88>>, 'request': <WSGIRequest: GET '/login/?next=/myhello/'>, 'user': <SimpleLazyObject: <django.contrib.auth.models.AnonymousUser object at 0x04E3C070>>, 'perms': <django.contrib.auth.context_processors.PermWrapper object at 0x04F4D4C0>, 'messages': <django.contrib.messages.storage.fallback.FallbackStorage object at 0x04E3C058>, 'DEFAULT_MESSAGE_LEVELS': {'DEBUG': 10, 'INFO': 20, 'SUCCESS': 25, 'WARNING': 30, 'ERROR': 40}}, {}, {'form': <AdminAuthenticationForm bound=False, valid=Unknown, fields=(username;password)>, 'view': <django.contrib.auth.views.LoginView object at 0x04E3CB08>, 'site_title': 'Django site admin', 'site_header': 'Django administration', 'site_url': '/', 'has_permission': False, 'available_apps': [], 'is_popup': False, 'is_nav_sidebar_enabled': True, 'title': 'Log in', 'app_path': '/login/?next=/myhello/', 'username': '', 'next': '/myhello/', 'site': <django.contrib.sites.requests.RequestSite object at 0x04F4D0B8>, 'site_name': '127.0.0.1:8000', 'LANGUAGE_CODE': 'en-us', 'LANGUAGE_BIDI': False}, {'block': <Block Node: title. Contents: [<IfNode>, <Variable Node: title>, <TextNode: ' | '>, <Variable Node: site_title|default:_('Django site admin')>]>}]
+Exception while resolving variable 'subtitle' in template 'admin/login.html'.
+Traceback (most recent call last):
+  File "E:\testEnv\lib\site-packages\django\template\base.py", line 829, in _resolve_lookup
+    current = current[bit]
+  File "E:\testEnv\lib\site-packages\django\template\context.py", line 83, in __getitem__
+    raise KeyError(key)
+KeyError: 'subtitle'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\testEnv\lib\site-packages\django\template\base.py", line 835, in _resolve_lookup
+    if isinstance(current, BaseContext) and getattr(type(current), bit):
+AttributeError: type object 'RequestContext' has no attribute 'subtitle'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\testEnv\lib\site-packages\django\template\base.py", line 843, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'subtitle'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\testEnv\lib\site-packages\django\template\base.py", line 848, in _resolve_lookup
+    raise VariableDoesNotExist("Failed lookup for key "
+django.template.base.VariableDoesNotExist: Failed lookup for key [subtitle] in [{'True': True, 'False': False, 'None': None}, {'csrf_token': <SimpleLazyObject: <function csrf.<locals>._get_val at 0x04F66C88>>, 'request': <WSGIRequest: GET '/login/?next=/myhello/'>, 'user': <SimpleLazyObject: <django.contrib.auth.models.AnonymousUser object at 0x04E3C070>>, 'perms': <django.contrib.auth.context_processors.PermWrapper object at 0x04F4D4C0>, 'messages': <django.contrib.messages.storage.fallback.FallbackStorage object at 0x04E3C058>, 'DEFAULT_MESSAGE_LEVELS': {'DEBUG': 10, 'INFO': 20, 'SUCCESS': 25, 'WARNING': 30, 'ERROR': 40}}, {}, {'form': <AdminAuthenticationForm bound=False, valid=Unknown, fields=(username;password)>, 'view': <django.contrib.auth.views.LoginView object at 0x04E3CB08>, 'site_title': 'Django site admin', 'site_header': 'Django administration', 'site_url': '/', 'has_permission': False, 'available_apps': [], 'is_popup': False, 'is_nav_sidebar_enabled': True, 'title': 'Log in', 'app_path': '/login/?next=/myhello/', 'username': '', 'next': '/myhello/', 'site': <django.contrib.sites.requests.RequestSite object at 0x04F4D0B8>, 'site_name': '127.0.0.1:8000', 'LANGUAGE_CODE': 'en-us', 'LANGUAGE_BIDI': False}, {'block': <Block Node: content_subtitle. Contents: [<IfNode>]>}]
+"GET /login/?next=/myhello/ HTTP/1.1" 200 2206
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."username" = 'max2015gept@Gmail.com' LIMIT 21; args=('max2015gept@Gmail.com',)
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" LIMIT 21; args=()
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."username" = 'max2015gept@Gmail.com' LIMIT 21; args=('max2015gept@Gmail.com',)
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."username" = 'max2015gept@Gmail.com' LIMIT 21; args=('max2015gept@Gmail.com',)
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."username" = 'max2015gept@Gmail.com' LIMIT 21; args=('max2015gept@Gmail.com',)
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."username" = 'max2015gept@Gmail.com' LIMIT 21; args=('max2015gept@Gmail.com',)
+File E:\testEnv\Lib\site-packages\django\db\models\sql\compiler.py first seen with mtime 1622215651.6483858
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "E:\testEnv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\testEnv\lib\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such table: auth_user
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\testEnv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "E:\testEnv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\testEnv\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "E:\testEnv\lib\site-packages\django\contrib\admin\sites.py", line 414, in login
+    return LoginView.as_view(**defaults)(request)
+  File "E:\testEnv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\testEnv\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "E:\testEnv\lib\site-packages\django\views\decorators\debug.py", line 89, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "E:\testEnv\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "E:\testEnv\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "E:\testEnv\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "E:\testEnv\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "E:\testEnv\lib\site-packages\django\contrib\auth\views.py", line 63, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "E:\testEnv\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "E:\testEnv\lib\site-packages\django\views\generic\edit.py", line 141, in post
+    if form.is_valid():
+  File "E:\testEnv\lib\site-packages\django\forms\forms.py", line 175, in is_valid
+    return self.is_bound and not self.errors
+  File "E:\testEnv\lib\site-packages\django\forms\forms.py", line 170, in errors
+    self.full_clean()
+  File "E:\testEnv\lib\site-packages\django\forms\forms.py", line 373, in full_clean
+    self._clean_form()
+  File "E:\testEnv\lib\site-packages\django\forms\forms.py", line 400, in _clean_form
+    cleaned_data = self.clean()
+  File "E:\testEnv\lib\site-packages\django\contrib\auth\forms.py", line 202, in clean
+    self.user_cache = authenticate(self.request, username=username, password=password)
+  File "E:\testEnv\lib\site-packages\django\views\decorators\debug.py", line 42, in sensitive_variables_wrapper
+    return func(*func_args, **func_kwargs)
+  File "E:\testEnv\lib\site-packages\django\contrib\auth\__init__.py", line 76, in authenticate
+    user = backend.authenticate(request, **credentials)
+  File "E:\testEnv\lib\site-packages\django\contrib\auth\backends.py", line 42, in authenticate
+    user = UserModel._default_manager.get_by_natural_key(username)
+  File "E:\testEnv\lib\site-packages\django\contrib\auth\base_user.py", line 45, in get_by_natural_key
+    return self.get(**{self.model.USERNAME_FIELD: username})
+  File "E:\testEnv\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\testEnv\lib\site-packages\django\db\models\query.py", line 431, in get
+    num = len(clone)
+  File "E:\testEnv\lib\site-packages\django\db\models\query.py", line 262, in __len__
+    self._fetch_all()
+  File "E:\testEnv\lib\site-packages\django\db\models\query.py", line 1324, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "E:\testEnv\lib\site-packages\django\db\models\query.py", line 51, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "E:\testEnv\lib\site-packages\django\db\models\sql\compiler.py", line 1175, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\testEnv\lib\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "E:\testEnv\lib\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "E:\testEnv\lib\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "E:\testEnv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\testEnv\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "E:\testEnv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\testEnv\lib\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such table: auth_user
+"POST /login/?next=/myhello/ HTTP/1.1" 500 220430
+"GET /myhello/ HTTP/1.1" 302 0
+Exception while resolving variable 'subtitle' in template 'admin/login.html'.
+Traceback (most recent call last):
+  File "E:\testEnv\lib\site-packages\django\template\base.py", line 829, in _resolve_lookup
+    current = current[bit]
+  File "E:\testEnv\lib\site-packages\django\template\context.py", line 83, in __getitem__
+    raise KeyError(key)
+KeyError: 'subtitle'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\testEnv\lib\site-packages\django\template\base.py", line 835, in _resolve_lookup
+    if isinstance(current, BaseContext) and getattr(type(current), bit):
+AttributeError: type object 'RequestContext' has no attribute 'subtitle'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\testEnv\lib\site-packages\django\template\base.py", line 843, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'subtitle'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\testEnv\lib\site-packages\django\template\base.py", line 848, in _resolve_lookup
+    raise VariableDoesNotExist("Failed lookup for key "
+django.template.base.VariableDoesNotExist: Failed lookup for key [subtitle] in [{'True': True, 'False': False, 'None': None}, {'csrf_token': <SimpleLazyObject: <function csrf.<locals>._get_val at 0x00EB2610>>, 'request': <WSGIRequest: GET '/login/?next=/myhello/'>, 'user': <SimpleLazyObject: <django.contrib.auth.models.AnonymousUser object at 0x04E8EAD8>>, 'perms': <django.contrib.auth.context_processors.PermWrapper object at 0x04F2DD90>, 'messages': <django.contrib.messages.storage.fallback.FallbackStorage object at 0x04E8EFD0>, 'DEFAULT_MESSAGE_LEVELS': {'DEBUG': 10, 'INFO': 20, 'SUCCESS': 25, 'WARNING': 30, 'ERROR': 40}}, {}, {'form': <AdminAuthenticationForm bound=False, valid=Unknown, fields=(username;password)>, 'view': <django.contrib.auth.views.LoginView object at 0x04F2DC70>, 'site_title': 'Django site admin', 'site_header': 'Django administration', 'site_url': '/', 'has_permission': False, 'available_apps': [], 'is_popup': False, 'is_nav_sidebar_enabled': True, 'title': 'Log in', 'app_path': '/login/?next=/myhello/', 'username': '', 'next': '/myhello/', 'site': <django.contrib.sites.requests.RequestSite object at 0x04F2D5E0>, 'site_name': '127.0.0.1:8000', 'LANGUAGE_CODE': 'en-us', 'LANGUAGE_BIDI': False}, {'block': <Block Node: title. Contents: [<IfNode>, <Variable Node: title>, <TextNode: ' | '>, <Variable Node: site_title|default:_('Django site admin')>]>}]
+Exception while resolving variable 'subtitle' in template 'admin/login.html'.
+Traceback (most recent call last):
+  File "E:\testEnv\lib\site-packages\django\template\base.py", line 829, in _resolve_lookup
+    current = current[bit]
+  File "E:\testEnv\lib\site-packages\django\template\context.py", line 83, in __getitem__
+    raise KeyError(key)
+KeyError: 'subtitle'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\testEnv\lib\site-packages\django\template\base.py", line 835, in _resolve_lookup
+    if isinstance(current, BaseContext) and getattr(type(current), bit):
+AttributeError: type object 'RequestContext' has no attribute 'subtitle'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\testEnv\lib\site-packages\django\template\base.py", line 843, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'subtitle'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\testEnv\lib\site-packages\django\template\base.py", line 848, in _resolve_lookup
+    raise VariableDoesNotExist("Failed lookup for key "
+django.template.base.VariableDoesNotExist: Failed lookup for key [subtitle] in [{'True': True, 'False': False, 'None': None}, {'csrf_token': <SimpleLazyObject: <function csrf.<locals>._get_val at 0x00EB2610>>, 'request': <WSGIRequest: GET '/login/?next=/myhello/'>, 'user': <SimpleLazyObject: <django.contrib.auth.models.AnonymousUser object at 0x04E8EAD8>>, 'perms': <django.contrib.auth.context_processors.PermWrapper object at 0x04F2DD90>, 'messages': <django.contrib.messages.storage.fallback.FallbackStorage object at 0x04E8EFD0>, 'DEFAULT_MESSAGE_LEVELS': {'DEBUG': 10, 'INFO': 20, 'SUCCESS': 25, 'WARNING': 30, 'ERROR': 40}}, {}, {'form': <AdminAuthenticationForm bound=False, valid=Unknown, fields=(username;password)>, 'view': <django.contrib.auth.views.LoginView object at 0x04F2DC70>, 'site_title': 'Django site admin', 'site_header': 'Django administration', 'site_url': '/', 'has_permission': False, 'available_apps': [], 'is_popup': False, 'is_nav_sidebar_enabled': True, 'title': 'Log in', 'app_path': '/login/?next=/myhello/', 'username': '', 'next': '/myhello/', 'site': <django.contrib.sites.requests.RequestSite object at 0x04F2D5E0>, 'site_name': '127.0.0.1:8000', 'LANGUAGE_CODE': 'en-us', 'LANGUAGE_BIDI': False}, {'block': <Block Node: content_subtitle. Contents: [<IfNode>]>}]
+"GET /login/?next=/myhello/ HTTP/1.1" 200 2206
+"GET / HTTP/1.1" 200 9
+"GET /?name=max HTTP/1.1" 200 9
